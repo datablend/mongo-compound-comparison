@@ -1,1 +1,3 @@
-Project showing the use of mongdb for executing checmical compound similarity algorithms
+Project showing the use of mongdb for executing checmical compound similarity algorithms.
+
+Make sure MongoDB is running when executing the project code.
